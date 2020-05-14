@@ -1,0 +1,70 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ContextKit",
+        "repositoryURL": "https://github.com/nerdsupremacist/ContextKit.git",
+        "state": {
+          "branch": null,
+          "revision": "d68c64dd4ed4c616bb5fd58f9d19d939a1735f20",
+          "version": "0.2.1"
+        }
+      },
+      {
+        "package": "CRuntime",
+        "repositoryURL": "https://github.com/nerdsupremacist/CRuntime.git",
+        "state": {
+          "branch": null,
+          "revision": "95f911318d8c885f6fc05e971471f94adfd39405",
+          "version": "2.1.2"
+        }
+      },
+      {
+        "package": "CwlDemangle",
+        "repositoryURL": "https://github.com/mattgallagher/CwlDemangle.git",
+        "state": {
+          "branch": null,
+          "revision": "b268c08207d2990664605c49b2c71cbd0df3445b",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "GraphQL",
+        "repositoryURL": "https://github.com/nerdsupremacist/GraphQL.git",
+        "state": {
+          "branch": null,
+          "revision": "253b6efa4fdac99a0feef631023232729864a7c1",
+          "version": "0.12.1-beta.6"
+        }
+      },
+      {
+        "package": "GraphZahl",
+        "repositoryURL": "https://github.com/nerdsupremacist/GraphZahl.git",
+        "state": {
+          "branch": null,
+          "revision": "a439ed62e6a1197325a1aac1679ba4f20869e76a",
+          "version": "0.1.0-alpha.24"
+        }
+      },
+      {
+        "package": "Runtime",
+        "repositoryURL": "https://github.com/nerdsupremacist/Runtime.git",
+        "state": {
+          "branch": null,
+          "revision": "3c87a4e966baff36c8d0bc35620f833a55c6f201",
+          "version": "2.1.2-beta.10"
+        }
+      },
+      {
+        "package": "swift-nio",
+        "repositoryURL": "https://github.com/apple/swift-nio.git",
+        "state": {
+          "branch": null,
+          "revision": "c5fa0b456524cd73dc3ddbb263d4f46c20b86ca3",
+          "version": "2.17.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
